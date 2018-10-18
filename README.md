@@ -1,0 +1,2 @@
+# parentapp
+react-native app
